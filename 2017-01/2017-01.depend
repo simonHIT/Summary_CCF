@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1551791671 source:d:\downloads\workplace-cb\2017-01\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+
